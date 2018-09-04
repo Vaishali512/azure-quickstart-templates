@@ -40,6 +40,7 @@
     "webSrvVMSize": {
       "type": "string",
       "allowedValues": [
+        "Standard_A2"
         "Standard_DS1",
         "Standard_DS2",
         "Standard_DS3",
